@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IPC Server</string>
+    <string name="ipc_demo">IPC Demo</string>
+    <string name="server">Server</string>
+    <string name="enter_the_message_that_will_be_sent_to_clients">Enter the message that will be sent to clients</string>
+    <string name="message">Message</string>
+    <string name="save_message">Save Message</string>
+    <string name="message_saved">Message saved</string>
+    <string name="message_error">Message can\'t be empty</string>
+</resources>
